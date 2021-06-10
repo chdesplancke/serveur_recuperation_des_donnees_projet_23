@@ -1,0 +1,14 @@
+{
+  "project" : {
+    "version" : "1.0.0",
+    "environment" : "development"
+  },
+  "database" : {
+    "host" : "projet.chdesplancke.xyz",
+    "port" : "3306",
+    "database" : "projet23",
+    "user" : "",
+    "password" : ""
+  },
+  "table" : ["dfrobot_sen0308", "dfrobot_sht20", "adafruit_tsl2591"]
+}

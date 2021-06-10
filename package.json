@@ -1,0 +1,24 @@
+{
+  "name": "projetserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mysql2": "^2.2.5",
+    "winston": "^3.3.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-schedule": "^2.0.0",
+    "prompt": "^1.1.0",
+    "readline-sync": "^1.4.10",
+    "socket.io": "^4.0.1",
+    "socket.io-client": "^4.0.1"
+  }
+}
